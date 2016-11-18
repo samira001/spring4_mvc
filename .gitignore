@@ -14,7 +14,7 @@
 .idea/
 
 #=== Maven ========
-/target
+*/target
 
 #=== Release plugin ====
 *.next
