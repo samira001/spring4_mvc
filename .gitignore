@@ -1,0 +1,24 @@
+
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+.cache
+
+#=== Idea Ignores ========
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#=== Maven ========
+/target
+
+#=== Release plugin ====
+*.next
+*.releaseBackup
+*.tag
+*.versionBackup
+
